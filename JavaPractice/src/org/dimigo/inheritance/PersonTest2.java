@@ -30,12 +30,20 @@ public class PersonTest2 {
 				new Chinese("왕밍")
 		};
 		
+		
+		
 		for (Person person : persons){
 			System.out.println(person);
-			person.sayHello();
-			person.sayBye();
-			System.out.println();	
-		}	
-	}	
+			greeting(person);		
+			System.out.println();
+		}
+		
+	}
+	
+	private static void greeting(Person p){
+		p.sayHello();
+		p.sayBye();
+	}
+	
 	}
 
