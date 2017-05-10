@@ -36,7 +36,7 @@ public class PersonTest2 {
 			System.out.println(person);
 			greeting(person);		
 			System.out.println();
-		}
+		} 
 		
 	}
 	
