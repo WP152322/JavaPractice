@@ -10,7 +10,7 @@ package org.dimigo.inheritance;
  *
  * 1. 개요 :
  * 2. 작성일 : 2017. 5. 12.
- * </pre>
+ * </pre> 
  *
  * @author 이수연
  * @version : 1.0

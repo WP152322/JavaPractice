@@ -42,7 +42,7 @@ public class SmartPhone {
 	public void pay(){
 		
 	}
-	
+	 
 	public void useSpecialFunction(SmartPhone s){
 		
 		if (s == null) return;
